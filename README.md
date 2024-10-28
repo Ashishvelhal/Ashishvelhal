@@ -104,7 +104,7 @@
 </h1>
 
 <div align="center">
-<img width="200" height="300" src="https://drive.google.com/file/d/1MB4ORuELiZjo94qq-QTcDP0etlZl7mht/view?usp=share_link" />
+<img width="200" height="300" src="https://github.com/Ashishvelhal/Portfolio/blob/main/IMG_9672.jpg" />
 
 I am a Computer Science graduate from Savitribai phule University Pune.
 
