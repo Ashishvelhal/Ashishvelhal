@@ -138,7 +138,7 @@ I am a Computer Science graduate from Savitribai phule University Pune.
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
   
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ashishvelhal&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Issues">
+<img src="https://github-profile-trophy.vercel.app/?username=Ashishvelhal&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits">
  </div>
 
 <div align="center">
@@ -178,7 +178,7 @@ I am a Computer Science graduate from Savitribai phule University Pune.
 - ### Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodej,express,nextjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" />
   </a>
 </p>
 
